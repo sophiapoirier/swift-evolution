@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This proposal provides the ability to explicitly specify actor-isolation or non-isolation of a closure, as well as providing a parameter attribute to guarantee that a closure parameter inherits the isolation of the context. It makes the isolation inheritance rules more uniform while also making a specific concurrency pattern less-restrictive.
+This proposal provides the ability to explicitly specify actor-isolation or non-isolation of a closure, as well as providing a parameter attribute to guarantee that a closure parameter inherits the isolation of the context. It makes the isolation inheritance rules more uniform while also making a specific concurrency pattern less restrictive.
 
 ## Table of Contents
 
